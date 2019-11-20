@@ -1,0 +1,66 @@
+header, footer {
+    background-color: darkkhaki;
+      
+}
+div.header
+{
+    height: 200%;
+}
+img.iml 
+{
+    float: left;
+}
+
+img.imc
+
+{
+    text-align: center;
+}
+
+img.imr
+
+{
+    float: right;
+}
+
+img.bf
+{   clear: both;
+    float: right;
+}
+
+p.mo
+
+{
+    color: mediumpurple;
+}
+
+nav
+
+{
+    background-color: dimgrey;
+    text-align: center;
+    width: 90%;
+}
+ table
+ {
+     width: 100%;
+ }
+   
+span.navtext
+
+{
+    color: gold;
+}
+
+section.map
+
+{
+    background-color: paleturquoise;
+}
+
+
+article.map
+
+{
+    text-align: center;
+}
